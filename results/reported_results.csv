@@ -1,0 +1,9 @@
+Experiment,Accuracy,Precision,Recall,F1-Score,Source
+Feature selection - Filter,0.9917,1.0000,0.9773,0.9885,supplied feature-selection notebook
+Feature selection - Wrapper,0.9917,1.0000,0.9773,0.9885,supplied feature-selection notebook
+Feature selection - Embedded,0.9833,0.9773,0.9773,0.9773,supplied feature-selection notebook
+Feature selection - Final Intersection,0.9833,0.9773,0.9773,0.9773,supplied feature-selection notebook
+KNN baseline,0.9833,0.9868,0.9868,0.9868,supplied KNN notebook
+CNN tabular experiment,1.0000,1.0000,1.0000,1.0000,supplied KNN/CNN notebook
+Hybrid CNN+KNN experiment,0.9880,0.9800,1.0000,0.9900,supplied KNN/CNN notebook
+Final 1D CNN binary notebook,0.9875,1.0000,0.9800,0.9900,supplied final CNN notebook

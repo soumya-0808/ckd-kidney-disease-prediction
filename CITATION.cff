@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "A Deep Learning Framework for Multi-Modal Prediction of Kidney Disease Progression"
+type: software
+abstract: "Academic project repository containing CKD feature selection, KNN, tabular 1D CNN, hybrid CNN-KNN experiments, and supporting project documents."
+authors:
+  - family-names: Behera
+    given-names: "Soumya Ranjan"
+  - family-names: Kar
+    given-names: "Ayushman Gourav"
+  - family-names: Kumari
+    given-names: Riya
+  - family-names: Soren
+    given-names: Ruchika
+date-released: 2025-11-01
+version: 1.0.0
+repository-code: "https://github.com/REPLACE_WITH_YOUR_USERNAME/ckd-kidney-disease-prediction"
